@@ -1,0 +1,39 @@
+﻿<Properties StartupConfiguration="{F4D5DED8-5C1D-3548-CA55-9B4A022CCC7F}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ConversationController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Fader.cs" Line="5" Column="5" />
+      <File FileName="Assets/Scripts/SpeakerUIController.cs" Line="44" Column="18" />
+      <File FileName="Assets/Scripts/ConversationController.cs" Line="120" Column="10" />
+      <File FileName="Assets/Scripts/JsonCharacterNamer.cs" Line="7" Column="8" />
+      <File FileName="Assets/Scriptable Objects/Character.cs" Line="5" Column="2" />
+      <File FileName="Assets/Scripts/AudioFeedback.cs" Line="1" Column="1" />
+      <File FileName="Assets/Model/TitleData.cs" Line="3" Column="19" />
+      <File FileName="Assets/Scripts/SceneLoader.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TitleUI.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="GS_NPC_UnityAssessment" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Model" expanded="True" />
+              <Node name="Scripts" expanded="True">
+                <Node name="ConversationController.cs" selected="True" />
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="63f81acb-eaa7-4a10-a01e-e96f9905061d" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

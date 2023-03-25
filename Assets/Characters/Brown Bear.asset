@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c3b03ef78d6719e47800f7f1cf6561d3, type: 3}
+  m_Name: Brown Bear
+  m_EditorClassIdentifier: 
+  fullName: Brown Bear
+  portraitFirst: {fileID: 21300000, guid: bc718a1db4bf6414fb60940fe6722199, type: 3}
+  portraitTwo: {fileID: 21300000, guid: 2bb64bf1713974383847b8659b49068c, type: 3}
+  portraitThree: {fileID: 21300000, guid: b6b17cc0e21684853b5fda75b462ddb8, type: 3}

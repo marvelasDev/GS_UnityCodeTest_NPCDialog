@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dbd068259c805c41b7bcaead75c73d0, type: 3}
+  m_Name: Green Gecko vs Brown Bear
+  m_EditorClassIdentifier: 
+  speakerLeft: {fileID: 11400000, guid: 71ca472d2fbb64a62b30e290c9b4c855, type: 2}
+  speakerMid: {fileID: 0}
+  speakerRight: {fileID: 11400000, guid: a5f87ad6f262b43628cf3318c8b5351d, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 71ca472d2fbb64a62b30e290c9b4c855, type: 2}
+    text: Nah, I say let's use it to head to the surf shop..
+    pose: 2
+  - character: {fileID: 11400000, guid: a5f87ad6f262b43628cf3318c8b5351d, type: 2}
+    text: How about we enjoy our time here at the beach?
+    pose: 0
+  nextConversation: {fileID: 0}

@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5dbd068259c805c41b7bcaead75c73d0, type: 3}
+  m_Name: Purple Penguin vs Green Gecko
+  m_EditorClassIdentifier: 
+  hasFadeIn: 0
+  speakerLeft: {fileID: 11400000, guid: 71ca472d2fbb64a62b30e290c9b4c855, type: 2}
+  speakerRight: {fileID: 11400000, guid: 3bfe7bf751adf4a53b24e5d0737b812f, type: 2}
+  lines:
+  - character: {fileID: 11400000, guid: 3bfe7bf751adf4a53b24e5d0737b812f, type: 2}
+    text: 'Hmm.
+
+
+
+'
+    pose: 0
+  - character: {fileID: 11400000, guid: 3bfe7bf751adf4a53b24e5d0737b812f, type: 2}
+    text: 'My friends said they''d be here.
+
+
+      Did they leave without me?'
+    pose: 0
+  - character: {fileID: 11400000, guid: 71ca472d2fbb64a62b30e290c9b4c855, type: 2}
+    text: "Surprise! \n\nI was hiding in the sand hehe..."
+    pose: 0
+  - character: {fileID: 11400000, guid: 3bfe7bf751adf4a53b24e5d0737b812f, type: 2}
+    text: Nice try buddy. I've got nerves of steel.
+    pose: 1
+  - character: {fileID: 11400000, guid: 71ca472d2fbb64a62b30e290c9b4c855, type: 2}
+    text: You're no fun. Btw, where's Bear? Wasn't she coming with you?
+    pose: 1
+  nextConversation: {fileID: 11400000, guid: 97b398c15599f4b6c9c7fabc149c3389, type: 2}
