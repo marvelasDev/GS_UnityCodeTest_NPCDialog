@@ -1,5 +1,5 @@
 # gs-npc-dialogue-system
-Gravy Stack NPC Dialogue System
+GS NPC Dialogue System
 
 To test the project, open the scene: Scenes/Main, and then run it. Tested form factors are 9:21 (per the spec) and 3:4.
 
